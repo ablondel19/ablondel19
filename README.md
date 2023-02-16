@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<style>
+	.grade {
+		color: green;
+	}
+</style>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"/>
@@ -22,114 +26,114 @@
 <h2>&nbsp;Recap of my projects at school 42</h2>
 <ul>
 	<li>
-		<h3>libft: grade 115/100</h3>
-		<p>
+		<h3 class="project-title">libft: grade <span class="grade">115/100</span></h3>
+		<p class="summary">
 			This project is about coding a C library.
 			It contains a lot of general purpose functions.</p>
 	</li>
 	<li>
-		<h3>get_next_line: grade 115/100</h3>
-		<p>
+		<h3 class="project-title">get_next_line: grade <span class="grade">115/100</span></h3>
+		<p class="summary">
 			This project is about programming a function in C that returns a line
 			read from a file descriptor.</p>
 	</li>
 	<li>
-		<h3>ft_printf: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">ft_printf: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			The goal of this project is pretty straightforward. Recode printf().
 			Mainly to learn about using a variable number of arguments. How cool is that??
 			It is actually pretty cool :)</p>
 	</li>
 	<li>
-		<h3>netwhat: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">netwhat: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			The goal of this project is to understand IP adresses and masks, learning
 			the foundations of network programming.
 		</p>
 	</li>
 	<li>
-		<h3>ft_server: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">ft_server: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			The goal of this project is to create a web server with Nginx capable of running a WordPress website, 
 			phpMyAdmin, and a MySQL database. This server will run in only one Docker container, under Debian Buster.
 		</p>
 	</li>
 	<li>
-		<h3>cub3d: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">cub3d: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. 
 			It's about coding a ray-casting engine from scratch, using the graphic library provided by 42 (minilibX).
 			The goal is to make a dynamic view inside a maze, in which the player have to find his way. 
 		</p>
 	</li>
 	<li>
-		<h3>libasm: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">libasm: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			The goal of this project is to get familiar with the assembly language.
 			Coded in 64bits ASM with the Intel syntax.
 		</p>
 	</li>
 	<li>
-		<h3>push_swap: grade 125/100</h3>
-		<p>
+		<h3 class="project-title">push_swap: grade <span class="grade">125/100</span></h3>
+		<p class="summary">
 			The goal of this project is to sort data on a stack, with a limited set of instructions, 
 			and the smallest number of moves. To make this happen, we have to manipulate various 
 			sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.</p>
 	</li>
 	<li>
-		<h3>pipex: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">pipex: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			This project aims to deepen the understanding of the two concepts: 
 			Redirections and Pipes. It is an introductory project for the bigger 
 			UNIX projects that appear later on in the cursus. 
 		</p>
 	</li>
 	<li>
-		<h3>philosophers: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">philosophers: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely 
 			timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger.
 		</p>
 	</li>
 	<li>
-		<h3>fract-ol: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">fract-ol: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX. 
 		</p>
 	</li>
 	<li>
-		<h3>minishell: grade 101/100</h3>
-		<p>
+		<h3 class="project-title">minishell: grade <span class="grade">101/100</span></h3>
+		<p class="summary">
 			This project is about creating a simple shell.
 			Learn a lot about processes and file descriptors.</p>
 	</li>
 	<li>
-		<h3>cpp module 00 to 08:</h3>
-		<h4> - cpp module 00: grade 100/100 => Introduction</h4>
-		<h4> - cpp module 01: grade 100/100 => Memory allocation, reference, pointers</h4>
-		<h4> - cpp module 02: grade 100/100 => Ad-hoc polymorphism, overloads and orthodox canonical classes</h4>
-		<h4> - cpp module 03: grade 100/100 => Inheritance</h4>
-		<h4> - cpp module 04: grade 100/100 => Subtype polymorphism, abstract classes and interfaces</h4>
-		<h4> - cpp module 05: grade 100/100 => Try/Catch and Exceptions</h4>
-		<h4> - cpp module 06: grade 100/100 => Casting</h4>
-		<h4> - cpp module 07: grade 100/100 => Templates</h4>
-		<h4> - cpp module 08: grade 100/100 => Templated containers, iterators and algorithms</h4>
+		<h3 class="project-title">cpp module 00 to 08:</h3>
+		<h4> - cpp module 00: grade <span class="grade">100/100</span> => Introduction</h4>
+		<h4> - cpp module 01: grade <span class="grade">100/100</span> => Memory allocation, reference, pointers</h4>
+		<h4> - cpp module 02: grade <span class="grade">100/100</span> => Ad-hoc polymorphism, overloads and orthodox canonical classes</h4>
+		<h4> - cpp module 03: grade <span class="grade">100/100</span> => Inheritance</h4>
+		<h4> - cpp module 04: grade <span class="grade">100/100</span> => Subtype polymorphism, abstract classes and interfaces</h4>
+		<h4> - cpp module 05: grade <span class="grade">100/100</span> => Try/Catch and Exceptions</h4>
+		<h4> - cpp module 06: grade <span class="grade">100/100</span> => Casting</h4>
+		<h4> - cpp module 07: grade <span class="grade">100/100</span> => Templates</h4>
+		<h4> - cpp module 08: grade <span class="grade">100/100</span> => Templated containers, iterators and algorithms</h4>
 	</li>
 	<li>
-		<h3>ft_containers: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">ft_containers: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			The multiple available containers in C++ all have a very different usage. To understand them all, let's re-implement them! 
 		</p>
 	</li>
 	<li>
-		<h3>inception: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">inception: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			This project aims to broaden the knowledge of system administration by using Docker. 
 			Virtualize several Docker images, creating them in a new personal virtual machine. </p>
 	</li>
 	<li>
-		<h3>webserv: grade 100/100</h3>
-		<p>
+		<h3 class="project-title">webserv: grade <span class="grade">100/100</span></h3>
+		<p class="summary">
 			This project is about writing our own HTTP server in CPP. which has to work with a real browser. 
 			HTTP is one of the most used protocol on internet. Knowing its arcane will be useful. </p>
 	</li>
