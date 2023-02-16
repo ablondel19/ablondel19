@@ -137,6 +137,29 @@
 		</p>
 	</li>
 </ul>
+<h2>&nbsp;Recap of my piscine at school 42</h2>
+<ul>
+	<li>
+		<h4> - shell 00: grade 100/100</h4>
+		<h4> - shell 01: grade 100/100</h4>
+		<h4> - C 00: grade 100/100</h4>
+		<h4> - C 01: grade 100/100</h4>
+		<h4> - C 02: grade 85/100</h4>
+		<h4> - C 03: grade 100/100</h4>
+		<h4> - C 04: grade 100/100</h4>
+		<h4> - C 05: grade 100/100</h4>
+		<h4> - C 06: grade 100/100</h4>
+		<h4> - C 07: grade 100/100</h4>
+		<h4> - C 08: grade 100/100</h4>
+		<h4> - C 09: grade 100/100</h4>
+		<h4> - C 11: grade 100/100</h4>
+		<h4> - EXAM 00: grade 100/100</h4>
+		<h4> - EXAM 01: grade 100/100</h4>
+		<h4> - EXAM 02: grade 100/100</h4>
+		<h4> - EXAM FINAL: grade 66/100</h4>
+		<h4> - BSQ: grade 100/100</h4>
+	</li>
+</ul>
 
 <!--
 **ablondel19/ablondel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
