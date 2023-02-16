@@ -1,9 +1,4 @@
 ### Hi there 👋
-<style>
-	span > .grade {
-		color: green;
-	}
-</style>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"/>
@@ -26,7 +21,7 @@
 <h2>&nbsp;Recap of my projects at school 42</h2>
 <ul>
 	<li>
-		<h3 class="project-title">libft: grade <span class="grade">115/100</span></h3>
+		<h3 class="project-title">libft: grade <span class="grade" style="color: green;">115/100</span></h3>
 		<p class="summary">
 			This project is about coding a C library.
 			It contains a lot of general purpose functions.</p>
