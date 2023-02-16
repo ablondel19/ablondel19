@@ -19,6 +19,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="45" height="45"/>
 </p>
+<h2>&nbsp;Recap of my projects at school 42</h2>
 
 <!--
 **ablondel19/ablondel19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
