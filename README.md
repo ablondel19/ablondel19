@@ -105,23 +105,23 @@
 	</li>
 	<li>
 		<h3>cpp module 00 to 08:</h3>
-		<h4> - cpp module 00: grade 100/100</h4>
-		<p>Time to dive into Object Oriented Programming! </p>
-		<h4> - cpp module 01: grade 100/100</h4>
-		<p>Memory allocation, reference, pointers to members and the usage of the switch in CPP. </p>
-		<h4> - cpp module 02: grade 100/100</h4>
+		<h4> - cpp module 00: grade 100/100 => <p>Introduction </p></h4>
+		
+		<h4> - cpp module 01: grade 100/100 => </h4>
+		<p>Memory allocation, reference, pointers. </p>
+		<h4> - cpp module 02: grade 100/100 => </h4>
 		<p>Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP. </p>
-		<h4> - cpp module 03: grade 100/100</h4>
+		<h4> - cpp module 03: grade 100/100 => </h4>
 		<p>Inheritance in CPP. </p>
-		<h4> - cpp module 04: grade 100/100</h4>
+		<h4> - cpp module 04: grade 100/100 => </h4>
 		<p>Subtype polymorphism, abstract classes and interfaces in CPP. </p>
-		<h4> - cpp module 05: grade 100/100</h4>
+		<h4> - cpp module 05: grade 100/100 => </h4>
 		<p>Try/Catch and Exceptions in CPP. </p>
-		<h4> - cpp module 06: grade 100/100</h4>
+		<h4> - cpp module 06: grade 100/100 => </h4>
 		<p>The different casts in CPP. </p>
-		<h4> - cpp module 07: grade 100/100</h4>
+		<h4> - cpp module 07: grade 100/100 => </h4>
 		<p>Templates in CPP. </p>
-		<h4> - cpp module 08: grade 100/100</h4>
+		<h4> - cpp module 08: grade 100/100 => </h4>
 		<p>Templated containers, iterators and algorithms in CPP. </p>
 	</li>
 	<li>
