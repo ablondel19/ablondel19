@@ -126,15 +126,21 @@
 	</li>
 	<li>
 		<h3>ft_containers: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			The multiple available containers in C++ all have a very different usage. To understand them all, let's re-implement them! 
+		</p>
 	</li>
 	<li>
 		<h3>inception: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			This project aims to broaden the knowledge of system administration by using Docker. 
+			Virtualize several Docker images, creating them in a new personal virtual machine. </p>
 	</li>
 	<li>
 		<h3>webserv: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			This project is about writing our own HTTP server. which has to work with a real browser. 
+			HTTP is one of the most used protocol on internet. Knowing its arcane will be useful. </p>
 	</li>
 </ul>
 
