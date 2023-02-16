@@ -1,4 +1,5 @@
-<h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️🥖🍷🧀</h1>
+<h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️</h1>
+<p>Take a moment to read about all the amazing things i had the chance to learn at school42.</p>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="45" height="45"/>
