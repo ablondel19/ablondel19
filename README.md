@@ -35,15 +35,24 @@
 	</li>
 	<li>
 		<h3>ft_printf: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			The goal of this project is pretty straightforward. Recode printf().
+			Mainly to learn about using a variable number of arguments. How cool is that??
+			It is actually pretty cool :)</p>
 	</li>
 	<li>
 		<h3>netwhat: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			The goal of this project is to understand IP adresses and masks, learning
+			the foundations of network programming.
+		</p>
 	</li>
 	<li>
 		<h3>ft_server: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			The goal of this project is to create a web server with Nginx capable of running a WordPress website, 
+			phpMyAdmin, and a MySQL database. This server will run in only one Docker container, under Debian Buster.
+		</p>
 	</li>
 	<li>
 		<h3>cub3d: grade 100/100</h3>
