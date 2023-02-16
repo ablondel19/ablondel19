@@ -1,7 +1,7 @@
 <h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️</h1>
 <div>
 	<img src="https://github-readme-stats.vercel.app/api?username=ablondel19&show_icons=true&theme=transparent&hide=contribs,prs"/>
-	<img src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ablondel19&layout=compact)]"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ablondel19&layout=compact&theme=transparent"/>
 </div>
 <p>Take a moment to read about all the amazing things i had the chance to learn at school42.</p>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
