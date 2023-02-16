@@ -23,40 +23,40 @@
 <ul>
 	<li>
 		<h3>libft: grade 115/100</h3>
-		<p>Summary:
+		<p>
 			This project is about coding a C library.
 			It contains a lot of general purpose functions.</p>
 	</li>
 	<li>
 		<h3>get_next_line: grade 115/100</h3>
-		<p>Summary:
+		<p>
 			This project is about programming a function in C that returns a line
 			read from a file descriptor.</p>
 	</li>
 	<li>
 		<h3>ft_printf: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			The goal of this project is pretty straightforward. Recode printf().
 			Mainly to learn about using a variable number of arguments. How cool is that??
 			It is actually pretty cool :)</p>
 	</li>
 	<li>
 		<h3>netwhat: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			The goal of this project is to understand IP adresses and masks, learning
 			the foundations of network programming.
 		</p>
 	</li>
 	<li>
 		<h3>ft_server: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			The goal of this project is to create a web server with Nginx capable of running a WordPress website, 
 			phpMyAdmin, and a MySQL database. This server will run in only one Docker container, under Debian Buster.
 		</p>
 	</li>
 	<li>
 		<h3>cub3d: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. 
 			It's about coding a ray-casting engine from scratch, using the graphic library provided by 42 (minilibX).
 			The goal is to make a dynamic view inside a maze, in which the player have to find his way. 
@@ -64,21 +64,21 @@
 	</li>
 	<li>
 		<h3>libasm: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			The goal of this project is to get familiar with the assembly language.
 			Coded in 64bits ASM with the Intel syntax.
 		</p>
 	</li>
 	<li>
 		<h3>push_swap: grade 125/100</h3>
-		<p>Summary:
+		<p>
 			The goal of this project is to sort data on a stack, with a limited set of instructions, 
 			and the smallest number of moves. To make this happen, we have to manipulate various 
 			sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.</p>
 	</li>
 	<li>
 		<h3>pipex: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			This project aims to deepen the understanding of the two concepts: 
 			Redirections and Pipes. It is an introductory project for the bigger 
 			UNIX projects that appear later on in the cursus. 
@@ -86,20 +86,20 @@
 	</li>
 	<li>
 		<h3>philosophers: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely 
 			timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger.
 		</p>
 	</li>
 	<li>
 		<h3>fract-ol: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX. 
 		</p>
 	</li>
 	<li>
 		<h3>minishell: grade 101/100</h3>
-		<p>Summary:
+		<p>
 			This project is about creating a simple shell.
 			Learn a lot about processes and file descriptors.</p>
 	</li>
@@ -117,19 +117,19 @@
 	</li>
 	<li>
 		<h3>ft_containers: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			The multiple available containers in C++ all have a very different usage. To understand them all, let's re-implement them! 
 		</p>
 	</li>
 	<li>
 		<h3>inception: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			This project aims to broaden the knowledge of system administration by using Docker. 
 			Virtualize several Docker images, creating them in a new personal virtual machine. </p>
 	</li>
 	<li>
 		<h3>webserv: grade 100/100</h3>
-		<p>Summary:
+		<p>
 			This project is about writing our own HTTP server in CPP. which has to work with a real browser. 
 			HTTP is one of the most used protocol on internet. Knowing its arcane will be useful. </p>
 	</li>
