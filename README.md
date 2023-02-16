@@ -23,11 +23,15 @@
 <ul>
 	<li>
 		<h3>libft: grade 115/100</h3>
-		<p></p>
+		<p>Summary:
+			This project is about coding a C library.
+			It contains a lot of general purpose functions.</p>
 	</li>
 	<li>
 		<h3>get_next_line: grade 115/100</h3>
-		<p></p>
+		<p>Summary:
+			This project is about programming a function in C that returns a line
+			read from a file descriptor.</p>
 	</li>
 	<li>
 		<h3>ft_printf: grade 100/100</h3>
