@@ -64,49 +64,65 @@
 	</li>
 	<li>
 		<h3>libasm: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			The goal of this project is to get familiar with the assembly language.
+			Coded in 64bits ASM with the Intel syntax.
+		</p>
 	</li>
 	<li>
 		<h3>push_swap: grade 125/100</h3>
-		<p></p>
+		<p>Summary:
+			The goal of this project is to sort data on a stack, with a limited set of instructions, 
+			and the smallest number of moves. To make this happen, we have to manipulate various 
+			sorting algorithms and choose the most appropriate solution(s) for optimized data sorting.</p>
 	</li>
 	<li>
 		<h3>pipex: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			This project aims to deepen the understanding of the two concepts: 
+			Redirections and Pipes. It is an introductory project for the bigger 
+			UNIX projects that appear later on in the cursus. 
+		</p>
 	</li>
 	<li>
 		<h3>philosophers: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			Eat, Sleep, Spaghetti, repeat. This project is about learning how threads work by precisely 
+			timing a group of philosophers on when to pick up forks and eat spaghetti without dying from hunger.
+		</p>
 	</li>
 	<li>
 		<h3>fract-ol: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX. 
+		</p>
 	</li>
 	<li>
 		<h3>minishell: grade 101/100</h3>
-		<p></p>
+		<p>Summary:
+			This project is about creating a simple shell.
+			Learn a lot about processes and file descriptors.</p>
 	</li>
 	<li>
 		<h3>cpp module 00 to 08:</h3>
-		<p></p>
 		<h4> - cpp module 00: grade 100/100</h4>
-		<p></p>
+		<p>This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! </p>
 		<h4> - cpp module 01: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP. </p>
 		<h4> - cpp module 02: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP. </p>
 		<h4> - cpp module 03: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand Inheritance in CPP. </p>
 		<h4> - cpp module 04: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP. </p>
 		<h4> - cpp module 05: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand Try/Catch and Exceptions in CPP. </p>
 		<h4> - cpp module 06: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand the different casts in CPP. </p>
 		<h4> - cpp module 07: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand Templates in CPP. </p>
 		<h4> - cpp module 08: grade 100/100</h4>
-		<p></p>
+		<p>This module is designed to help you understand templated containers, iterators and algorithms in CPP. </p>
 	</li>
 	<li>
 		<h3>ft_containers: grade 100/100</h3>
