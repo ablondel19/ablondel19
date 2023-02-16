@@ -56,7 +56,11 @@
 	</li>
 	<li>
 		<h3>cub3d: grade 100/100</h3>
-		<p></p>
+		<p>Summary:
+			This project is inspired by the world-famous eponymous 90's game, which was the first FPS ever. 
+			It's about coding a ray-casting engine from scratch, using the graphic library provided by 42 (minilibX).
+			The goal is to make a dynamic view inside a maze, in which the player have to find his way. 
+		</p>
 	</li>
 	<li>
 		<h3>libasm: grade 100/100</h3>
