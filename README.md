@@ -1,5 +1,5 @@
 <h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️</h1>
-[![Ablondel19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel19)](https://github.com/ablondel19/github-readme-stats)
+[![Ablondel19's GitHub stats](https://github-readme-stats.vercel.app/api?username=ablondel19)]
 <p>Take a moment to read about all the amazing things i had the chance to learn at school42.</p>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
