@@ -70,25 +70,25 @@
 		<p></p>
 	</li>
 	<li>
-		<h3>cpp module 00 to 08: grade 100/100</h3>
+		<h3>cpp module 00 to 08:</h3>
 		<p></p>
-		<h2>cpp module 00: grade 100/100</h2>
+		<h4>cpp module 00: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 01: grade 100/100</h2>
+		<h4>cpp module 01: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 02: grade 100/100</h2>
+		<h4>cpp module 02: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 03: grade 100/100</h2>
+		<h4>cpp module 03: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 04: grade 100/100</h2>
+		<h4>cpp module 04: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 05: grade 100/100</h2>
+		<h4>cpp module 05: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 06: grade 100/100</h2>
+		<h4>cpp module 06: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 07: grade 100/100</h2>
+		<h4>cpp module 07: grade 100/100</h4>
 		<p></p>
-		<h2>cpp module 08: grade 100/100</h2>
+		<h4>cpp module 08: grade 100/100</h4>
 		<p></p>
 	</li>
 	<li>
