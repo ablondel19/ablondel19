@@ -1,6 +1,6 @@
 <h1>Hey Everyone! I'm Arnaud! 👨🏻‍💻🇫🇷☕️</h1>
 <div>
-	<img src="https://github-readme-stats.vercel.app/api?username=ablondel19&show_icons=true&theme=radical"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=ablondel19&show_icons=true&theme=radical&hide=contribs,prs"/>
 </div>
 <p>Take a moment to read about all the amazing things i had the chance to learn at school42.</p>
 <h2>&nbsp;Some Tools I Have Used and Learned</h2>
