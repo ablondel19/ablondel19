@@ -139,7 +139,7 @@
 	<li>
 		<h3>webserv: grade 100/100</h3>
 		<p>Summary:
-			This project is about writing our own HTTP server. which has to work with a real browser. 
+			This project is about writing our own HTTP server in CPP. which has to work with a real browser. 
 			HTTP is one of the most used protocol on internet. Knowing its arcane will be useful. </p>
 	</li>
 </ul>
