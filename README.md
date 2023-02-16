@@ -106,23 +106,23 @@
 	<li>
 		<h3>cpp module 00 to 08:</h3>
 		<h4> - cpp module 00: grade 100/100</h4>
-		<p>This first module of C++ is designed to help you understand the specifities of the language when compared to C. Time to dive into Object Oriented Programming! </p>
+		<p>Time to dive into Object Oriented Programming! </p>
 		<h4> - cpp module 01: grade 100/100</h4>
-		<p>This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP. </p>
+		<p>Memory allocation, reference, pointers to members and the usage of the switch in CPP. </p>
 		<h4> - cpp module 02: grade 100/100</h4>
-		<p>This module is designed to help you understand Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP. </p>
+		<p>Ad-hoc polymorphism, overloads and orthodox canonical classes in CPP. </p>
 		<h4> - cpp module 03: grade 100/100</h4>
-		<p>This module is designed to help you understand Inheritance in CPP. </p>
+		<p>Inheritance in CPP. </p>
 		<h4> - cpp module 04: grade 100/100</h4>
-		<p>This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP. </p>
+		<p>Subtype polymorphism, abstract classes and interfaces in CPP. </p>
 		<h4> - cpp module 05: grade 100/100</h4>
-		<p>This module is designed to help you understand Try/Catch and Exceptions in CPP. </p>
+		<p>Try/Catch and Exceptions in CPP. </p>
 		<h4> - cpp module 06: grade 100/100</h4>
-		<p>This module is designed to help you understand the different casts in CPP. </p>
+		<p>The different casts in CPP. </p>
 		<h4> - cpp module 07: grade 100/100</h4>
-		<p>This module is designed to help you understand Templates in CPP. </p>
+		<p>Templates in CPP. </p>
 		<h4> - cpp module 08: grade 100/100</h4>
-		<p>This module is designed to help you understand templated containers, iterators and algorithms in CPP. </p>
+		<p>Templated containers, iterators and algorithms in CPP. </p>
 	</li>
 	<li>
 		<h3>ft_containers: grade 100/100</h3>
