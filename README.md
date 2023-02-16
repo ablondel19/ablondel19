@@ -1,6 +1,6 @@
 ### Hi there 👋
 <style>
-	.grade {
+	span > .grade {
 		color: green;
 	}
 </style>
